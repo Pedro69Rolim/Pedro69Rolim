@@ -4,7 +4,7 @@
 - Ler
 - Viajar
 - Ir ao cinema
-- assistir séries e Filmes
+- assistir Séries e Filmes
 - Conhecer lugares novos
 - acompanhar o mercado financeiro
 - aprender educação financeira
