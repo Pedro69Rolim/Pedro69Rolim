@@ -1,16 +1,22 @@
-### Hi there 👋
+# Bem vindo(a) ao meu perfil 👋
 
-<!--
-**Pedro69Rolim/Pedro69Rolim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Meus hobbies
+- Ler
+- Viajar
+- Ir ao cinema
+- assistir séries e Filmes
+- Conhecer lugares novos
+- acompanhar o mercado financeiro
+- aprender educação financeira
 
-Here are some ideas to get you started:
+## Estudando
+- Git e GitHub
+- javascript
+- Economia
+- Inglês
+- Pacote Office
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Contato
+- Instagram: @pedrorolim__
+- Github: @Pedro69Rolim
+- Email: pedrohgrolim@outlook.com
